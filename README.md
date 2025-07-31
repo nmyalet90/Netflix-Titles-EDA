@@ -2,6 +2,11 @@
 
 This project performs an exploratory data analysis on a Netflix dataset containing TV shows and movies available on the platform. The goal is to uncover patterns and insights from the content catalogue such as types of shows, distribution by country, release year, and more.
 
+## 📁 File Structure
+
+- `Netflix_Titles_EDA.ipynb` - Main Jupyter notebook with full analysis
+- `netflix_titles.csv` - Dataset used for the analysis
+
 ## 📂 Dataset
 
 - Source: [Netflix Titles Dataset on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
@@ -46,12 +51,6 @@ This project performs an exploratory data analysis on a Netflix dataset containi
 - The most common rating is “TV-MA”.
 - The volume of content added peaked in 2019.
 - The number of releases has decreased since 2020, likely due to the onset of the COVID-19 pandemic.
-
-## 📁 File Structure
-
-- `Netflix_Titles_EDA.ipynb` - Main Jupyter notebook with full analysis
-- `netflix_titles.csv` - Dataset used for the analysis
-
 
 ## 🧠 Conclusions
 
